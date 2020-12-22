@@ -80,11 +80,11 @@ footer{
   padding: 22px;
 }
 
-.icon {
-		text-decoration: none;
-		border-bottom: none;
-		position: relative;
-	}
+.icon{
+  text-decoration: none;
+  border-bottom: none;
+   position: relative;
+}
 
 .video-wrapper{
   margin: 10px;
